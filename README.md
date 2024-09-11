@@ -11,4 +11,6 @@
 8. **Fitting the Model** on the training data and evaluating performance using accuracy, precision, recall, and other metrics.
 9. **The Python notebook** for the project has been mentioned in the Code section.
 
-A **Power BI dashboard** was created for interactive visualizations and insights, referencing the Python analysis file.![WhatsApp Image 2024-09-11 at 11 37 13 PM](https://github.com/user-attachments/assets/4c69b2e4-4b98-48a2-89e1-739cb4e3443a)
+A **Power BI dashboard** was created for interactive visualizations and insights, referencing the Python analysis file.!
+
+[WhatsApp Image 2024-09-11 at 11 37 13 PM](https://github.com/user-attachments/assets/4c69b2e4-4b98-48a2-89e1-739cb4e3443a)
